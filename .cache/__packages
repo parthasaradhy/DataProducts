@@ -1,0 +1,13 @@
+base
+devtools
+slidify
+data.table
+rCharts
+reshape2
+ggplot2
+ggvis
+dplyr
+markdown
+maps
+mapproj
+knitr
